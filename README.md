@@ -1,1 +1,1 @@
-the counter starts from 100
+the countDown starts from 100
